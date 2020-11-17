@@ -33,7 +33,14 @@ Table of Contents
 
 ## Architecture
 
-## Project Steps
+### Automated ML Experiment
+
+#### Registered Dataset
+
+## Future Improvements
+
+
+## Screenshots of the project main steps
 We following the below steps:
 
 Authentication
@@ -44,12 +51,5 @@ Swagger Documentation
 Consume model endpoints
 Create and publish a pipeline
 Documentation
-
-
-### Automated ML Experiment
-
-#### Registered Dataset
-
-## Future Improvements
 
 ## Screencast Video
