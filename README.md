@@ -51,8 +51,18 @@ We following the below steps:
 ![Authentcation](Images/Authentication.png)
 
 ### Step 2: Automated ML Experiment
+I uploaded bankmarketing_train.csv to Azure Machine Learning Studio so that it could be used during model training.
+![Dataset](Images/Dataset.png)
+
+I ran the experiment using Classification.
+![Experiment](Images/Experiment.png)
+
+I identified the best model after the experiment completes.
+![Best_model](Images/Best_model.png)
 
 ### Step 3: Deploy the best model
+After completing the execution of the experiment, we implemented the best model allowing to interact with the HTTP API service and interact with the model, sending data through POST requests.
+![Deploy](Images/Deploy.png)
 
 ### Step 4: Enable logging
 
