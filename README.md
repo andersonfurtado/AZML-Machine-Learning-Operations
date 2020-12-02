@@ -3,7 +3,7 @@
 Table of Contents
 =================
   * [Overview](#overview)
-  * [Architecture](#architecture)
+  * [Architecture](#Architecture)
   * [Project Steps](#project-steps)
     + [Automated ML Experiment](#automated-ml-experiment)
       - [Registered Dataset](#registered-dataset)
@@ -31,6 +31,8 @@ Table of Contents
 
 In this project, we use Microsoft Azure to demonstrate machine learning operations. This project used the Bank Marketing data set. This dataset was used to create a classification model to predict whether the customer will sign a term deposit or not using the AutoML feature in Azure ML Studio. We used Azure to set up a cloud-based machine learning production model, deploy it and consume it. We also create, publish and consume a pipeline.
 
+## Architecture
+Esta imagem dá uma visão geral do diagrama arquitetônico do projeto:
 ![Archtecture](Images/Archtecture.png)
 
 In this project, we follow the steps below:
@@ -41,27 +43,27 @@ In this project, we follow the steps below:
 - Swagger Documentation
 - Consume model endpoints
 - Create and publish a pipeline
-- Documentation
 
-## Architecture
-
-### Automated ML Experiment
-
-#### Registered Dataset
-
-## Future Improvements
-
-
-## Screenshots of the project main steps
+## Project Steps (Screenshots with short description)
 We following the below steps:
 
-Authentication
-Automated ML Experiment
-Deploy the best model
-Enable logging
-Swagger Documentation
-Consume model endpoints
-Create and publish a pipeline
-Documentation
+###Authentication
+
+###Automated ML Experiment
+
+###Deploy the best model
+
+###Enable logging
+
+###Swagger Documentation
+
+###Consume model endpoints
+
+###Create and publish a pipeline
+
+
+## Future Improvements
+Some areas of improvement for future experiments are:
+
 
 ## Screencast Video
