@@ -47,19 +47,19 @@ In this project, we follow the steps below:
 ## Project Steps (Screenshots with short description)
 We following the below steps:
 
-###Authentication
+### Step 1: Authentication
 
-###Automated ML Experiment
+### Step 2: Automated ML Experiment
 
-###Deploy the best model
+### Step 3: Deploy the best model
 
-###Enable logging
+### Step 4: Enable logging
 
-###Swagger Documentation
+### Step 5: Swagger Documentation
 
-###Consume model endpoints
+### Step 6: Consume model endpoints
 
-###Create and publish a pipeline
+### Step 7: Create and publish a pipeline
 
 
 ## Future Improvements
