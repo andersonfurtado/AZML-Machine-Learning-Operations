@@ -2,7 +2,7 @@
 
 Table of Contents
 =================
-  * [Overview](#overview)
+  * [Overview](## Overview)
   * [Architecture](#Architecture)
   * [Project Steps](#project-steps)
     + [Automated ML Experiment](#automated-ml-experiment)
