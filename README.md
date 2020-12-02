@@ -65,13 +65,41 @@ After completing the execution of the experiment, we implemented the best model 
 ![Deploy](Images/Deploy.png)
 
 ### Step 4: Enable logging
+Usamos o código logs.py para visualizar os logs.
+![Logspy](Images/logspy.png)
+
+Application Insights has been enabled as we can see no endpoint tab.
+![Application_insights](Images/Application_insights.png)
 
 ### Step 5: Swagger Documentation
+We consume the implanted model using Swagger. We ran the swagger.sh and serve.py.
+![Bash_swagger](Images/Bash_swagger.png)
+
+We interact with the swagger instance running with the documentation for the HTTP API of the automl-voting-ensemble model.
+![Localhost](Images/localhost.png)
+
+We display the contents of the API for the model.
+![Http_api](Images/http_api.png)
+
+We interact with the 
+![Swagger_petstore](Images/Swagger_petstore.png)
 
 ### Step 6: Consume model endpoints
+The image below shows endpoint.py execution against the API, producing JSON output from the model.
+![Endpoint_result](Images/Endpoint_result.png)
 
 ### Step 7: Create and publish a pipeline
+The pipeline section of Azure ML studio, showing that the pipeline has been crated.
+![Pipeline](Images/Pipeline.png)
 
+The "Published Pipeline overview", showing a REST endpoint and a status of "Active".
+![Pipeline_active](Images/Pipeline_active.png)
+
+In Jupyter Notebook, showing that the "Use RunDetails Widget" sows the step runs.
+![Jupyter_rundetails](Images/Jupyter_rundetails.png)
+
+In ML studio showing the scheduled run
+![MLstudio](Images/MLstudio.png)
 
 ## Future Improvements
 Some areas of improvement for future experiments are:
