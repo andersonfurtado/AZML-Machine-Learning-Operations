@@ -106,6 +106,7 @@ In ML studio showing the Pipeline endpoint and a status of "Active"
 
 ## Future Improvements
 Some areas of improvement for future experiments are:
-
+- Improve the performance of the algorithm by letting the model train for longer can lead to finding a better perofrming model.
+- Improve accuracy by getting more samples and running AutoML again.
 
 ## Screencast Video
