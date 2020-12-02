@@ -28,8 +28,20 @@ Table of Contents
   * [Screencast Video](#screencast-video)
   
 ## Overview
-In this project, we will use Microsoft Azure to demonstrate Machine Learning operations. This project uses the Bank Marketing Dataset. This dataset has been used to create a classification model to predict if the client will subscribe a term deposit or not using the AutoML feature in the Azure ML Studio. We configured a cloud-based machine learning production model, deployed it, and consumed it. 
 
+In this project, we use Microsoft Azure to demonstrate machine learning operations. This project used the Bank Marketing data set. This dataset was used to create a classification model to predict whether the customer will sign a term deposit or not using the AutoML feature in Azure ML Studio. We used Azure to set up a cloud-based machine learning production model, deploy it and consume it. We also create, publish and consume a pipeline.
+
+![Archtecture](imagens/Archtecture.png)
+
+In this project, we follow the steps below:
+- Authentication
+- Automated ML Experiment
+- Deploy the best model
+- Enable logging
+- Swagger Documentation
+- Consume model endpoints
+- Create and publish a pipeline
+- Documentation
 
 ## Architecture
 
