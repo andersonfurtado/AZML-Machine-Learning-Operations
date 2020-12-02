@@ -5,7 +5,6 @@ Table of Contents
   * [Overview](#Overview)
   * [Architecture](#Architecture)
   * [Project Steps](#project-steps)
-    + [Step 1: Authentication](#Step1-Authentication)
   * [Future Improvements](#future-improvements)
   * [Screencast Video](#screencast-video)
   
@@ -29,7 +28,7 @@ In this project, we follow the steps below:
 ## Project Steps
 We following the below steps:
 
-### [Step1-Authentication] Step 1: Authentication
+### Step 1: Authentication
 ![Authentcation](Images/Authentication.png)
 
 ### Step 2: Automated ML Experiment
