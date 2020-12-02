@@ -81,7 +81,7 @@ We interact with the swagger instance running with the documentation for the HTT
 We display the contents of the API for the model.
 ![Http_api](Images/http_api.png)
 
-We interact with the 
+We interact with the Swagger.
 ![Swagger_petstore](Images/Swagger_petstore.png)
 
 ### Step 6: Consume model endpoints
@@ -100,6 +100,9 @@ In Jupyter Notebook, showing that the "Use RunDetails Widget" sows the step runs
 
 In ML studio showing the scheduled run
 ![MLstudio](Images/MLstudio.png)
+
+In ML studio showing the Pipeline endpoint and a status of "Active"
+![Pipeline_endpoint](Images/Pipeline_endpoint.png)
 
 ## Future Improvements
 Some areas of improvement for future experiments are:
