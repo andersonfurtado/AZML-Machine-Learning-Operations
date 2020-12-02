@@ -2,10 +2,10 @@
 
 Table of Contents
 =================
-  * [Overview](## Overview)
+  * [Overview](#Overview)
   * [Architecture](#Architecture)
   * [Project Steps](#project-steps)
-    + [Automated ML Experiment](#automated-ml-experiment)
+    + [Step 1: Authentication](#Step 1: Authentication)
       - [Registered Dataset](#registered-dataset)
       - [Completed Experiment](#completed-experiment)
       - [Best Model](#best-model)
