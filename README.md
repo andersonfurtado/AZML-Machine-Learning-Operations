@@ -85,6 +85,9 @@ In ML studio showing the scheduled run
 In ML studio showing the Pipeline endpoint and a status of "Active"
 ![Pipeline_endpoint](Images/Pipeline_endpoint.png)
 
+Pipeline section of Azure ML studio showing that the pipeline has been created
+![Pipeline_endpoint](Images/Pipeline_create.png)
+
 ## Future Improvements
 Some areas of improvement for future experiments are:
 - _Getting more samples:_ There are several ways to improve the "accuracy" of a machine learning model, including: Treat missing and Outlier values, Feature Engineering (Feature transformation and Feature Creation), Feature Selection, Multiple algorithms, Algorithm Tuning, Ensemble methods (Bagging and Boosting) and Cross Validation, but in the present case we can highlight: (i) improve accuracy by getting more samples and running AutoML again, because if data is small and will miss complex patterns which can cause in poor performance in inference data; (ii) in order to increase the accuracy of the model, in the AutoML experiment we can enable the Deep Learning option in the Classification in order to allow the characterization of the text data. Sampling is a technique by which we pick and choose certain datapoints from the entire population to create a sample(subset of the entire population data). The algorithms of sampling the data are various but the point here is to fix the data imbalance issue we always need not increase the data which has less occurrence but decrease the datapoints which has more occurrence while maintaining the variance of the dataset.
