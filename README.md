@@ -48,10 +48,10 @@ After completing the execution of the experiment, we implemented the best model 
 ### Step 4: Enable logging
 
 Usamos o código logs.py para visualizar os logs.
-![Logspy](Images/logspy.png)
+![Logspy](Images/Logspy.png)
 
 Showing that the logs.py script was ran.
-![Logspy](Images/logs.py_run.png)
+![Logspy](Images/Logs.py_run.png)
 
 Application Insights has been enabled as we can see no endpoint tab.
 ![Application_insights](Images/Application_insights.png)
