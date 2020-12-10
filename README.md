@@ -54,7 +54,7 @@ Showing that the logs.py script was ran.
 ![Logspy](Images/Logs.py_run.png)
 
 Application Insights has been enabled as we can see no endpoint tab.
-![Application_Insights](Images/Application_Insights_true.png)
+![Application_Insights True](Images/Application_Insights_true.png)
 
 Indicating that logging is enabled and logs ran successfully
 ![Application_Insights](Images/Application_Insights.png)
