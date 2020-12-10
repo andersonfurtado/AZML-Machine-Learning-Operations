@@ -10,7 +10,9 @@ Table of Contents
   
 ## Overview
 
-In this project, we used Microsoft Azure to demonstrate machine learning operations. This project used the Bank Marketing dataset. This dataset was used to create a classification model to predict whether the customer will sign a term deposit or not using the AutoML feature in Azure ML Studio. We used Azure to set up a cloud-based machine learning production model, deploy it and consume it. We also create, publish and consume a pipeline.
+In this project, we used Microsoft Azure to demonstrate machine learning operations. This project used the Bank Marketing dataset. This dataset was used to create a classification model to predict whether the customer will sign a term deposit or not using the AutoML feature in Azure ML Studio. Thus, the goal of this project is to predict whether the product (term bank deposit) would be ('yes') or not ('no') subscribed. We used Azure to set up a cloud-based machine learning production model, deploy it and consume it. We also create, publish and consume a pipeline.
+
+An AutoML experiment was performed using the Azure ML platform to train different types of models where, among several algorithms, VotingEnsemble was the best model. The best model was implemented and the REST endpoint was generated. Later, I enabled logging through the Application Insights service. The Swagger documentation has been enabled to obtain information from the REST endpoint. Then, the endpoint was consumed using the HTTP API and authentication. In the final step, a pipeline using the Python SDK was created and published. Finally, the REST endpoint of the pipeline was obtained and we consumed the endpoint to execute the pipeline. The best model was later deployed to the cloud using an Azure container instance and a process pipeline was also deployed. After implantation, both the model and the pipelines can be accessed through REST terminals.
 
 ## Architecture
 This image gives an overview of the architectural diagram of the project:
