@@ -46,6 +46,9 @@ After completing the execution of the experiment, we implemented the best model 
 ![Deploy](Images/Deploy.png)
 
 ### Step 4: Enable logging
+Showing that the logs.py script was ran.
+![Logspy](Images/logs.py_run.png)
+
 Usamos o código logs.py para visualizar os logs.
 ![Logspy](Images/logspy.png)
 
