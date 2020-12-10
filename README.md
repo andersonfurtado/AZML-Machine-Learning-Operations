@@ -86,7 +86,7 @@ In ML studio showing the Pipeline endpoint and a status of "Active"
 ![Pipeline_endpoint](Images/Pipeline_endpoint.png)
 
 Pipeline section of Azure ML studio showing that the pipeline has been created
-![Pipeline_endpoint](Images/Pipeline_create.png)
+![Pipeline_endpoint](Images/Pipeline_completed.png)
 
 ## Future Improvements
 Some areas of improvement for future experiments are:
