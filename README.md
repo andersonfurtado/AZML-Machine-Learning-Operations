@@ -106,4 +106,4 @@ But this is not always the solution to fix the data imbalance issue and always i
 
 ## Screencast Video
 
-https://youtu.be/KpkPo_rQloQ
+https://youtu.be/oeyxoHY6IhU
