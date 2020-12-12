@@ -104,6 +104,4 @@ Some areas of improvement for future experiments are:
 - _Solving the class imbalance problem:_ The improvement of the accuracy could be when updating the data set to receive a more balanced one and increase the precision and robustness of the models. So the accuracy of the model can be improved by solving the class imbalance problem of the bank marketing data set, because the data has some inherent flaws. Increase the number of datapoints for the class which has less data (basically meaning to getting more data).
 But this is not always the solution to fix the data imbalance issue and always in industrial projects the below written method is used because we cannot wait until new data is generated to create ML models.
 
-## Screencast Video
 
-https://youtu.be/oeyxoHY6IhU
